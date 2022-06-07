@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simplice NIYONZIMA
-- 👀 I’m interested in Javascript, Python,Java, and their frameworks
-- 🌱 I’m currently learning Django,Node.JS, and React JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Javascript, Python, and Java.
+- 🌱 I’m currently learning NodeJs and ReactJS.
+- 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me ...
 
 <!---
