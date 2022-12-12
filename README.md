@@ -1,8 +1,13 @@
+### 👨_technologist: About Me :
+
 - 👋 Hi, I’m Simplice NIYONZIMA
-- 👀 I’m interested in Javascript, Python, and Java.
-- 🌱 I’m currently learning NodeJs and ReactJS.
-- 💞️ I’m looking to collaborate on ReactJS
+- 👀 I’m interested in Javascript, ReactJS, React Native, and Java.
+- 🌱 I’m currently learning NodeJs.
 - 📫 How to reach me ...
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <!---
 Simplice24/Simplice24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Simplice24&theme=dark&border_radius=3.8)](https://git.io/streak-stats)
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
