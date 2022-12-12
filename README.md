@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning NodeJs.
 - 📫 How to reach me ...
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Simplice24&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 Simplice24/Simplice24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
