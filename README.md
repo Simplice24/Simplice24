@@ -1,13 +1,11 @@
-### 👨_technologist: About Me :
+### 👨: About Me :
 
 - 👋 Hi, I’m Simplice NIYONZIMA
 - 👀 I’m interested in Javascript, ReactJS, React Native, and Java.
 - 🌱 I’m currently learning NodeJs.
 - 📫 How to reach me ...
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Simplice24&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 Simplice24/Simplice24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
