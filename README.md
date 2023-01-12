@@ -1,7 +1,7 @@
 ### 👨: About Me :
 
 - 👋 Hi, I’m Simplice NIYONZIMA
-- 👀 I’m interested in Javascript, ReactJS, React Native, and Java.
+- 👀 I’m interested in Javascript, PHP, Laravel, React Native, and Java.
 - 🌱 I’m currently learning NodeJs.
 - 📫 How to reach me ...
 
