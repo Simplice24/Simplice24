@@ -1,4 +1,4 @@
-![Simplice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simplice24&theme=dark&show_icons=true)
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
